@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Queen</item>
+        <item>The Rolling Stones</item>
+        <item>Pink Floyd</item>
+        <item>The Eagles</item>
+        <item>AC/DC</item>
+        <item>Metallica</item>
+        <item>Guns NRoses</item>
+        <item>The Beach Boys</item>
+        <item>The Who</item>
+        <item>Red Hot Chili Peppers</item>
+        <item>Coldplay</item>
+        <item>Radiohead</item>
+        <item>Led Zeppelin</item>
+        <item>Fleetwood Mac</item>
+        <item>Green Day</item>
+        <item>The Police</item>
+        <item>Black Sabbath</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>A British rock band formed in London in 1970.</item>
+        <item>An English rock band formed in London in 1962.</item>
+        <item>An English rock band that achieved international success with their progressive and psychedelic music.</item>
+        <item>An American rock band that formed in Los Angeles in 1971.</item>
+        <item>An Australian rock band formed in Sydney in 1973.</item>
+        <item>An American heavy metal band formed in Los Angeles in 1981.</item>
+        <item>An American hard rock band formed in Los Angeles in 1985.</item>
+        <item>An American rock band formed in Hawthorne, California, in 1961.</item>
+        <item>An English rock band formed in London in 1964.</item>
+        <item>An American rock band formed in Los Angeles in 1983.</item>
+        <item>A British rock band formed in London in 1996.</item>
+        <item>An English rock band formed in Abingdon, Oxfordshire, in 1985.</item>
+        <item>An English rock band formed in London in 1968.</item>
+        <item>A British-American rock band formed in London in 1967.</item>
+        <item>An American punk rock band formed in 1986.</item>
+        <item>A British rock band formed in London in 1977.</item>
+        <item>An English rock band formed in Birmingham in 1968.</item>
+    </string-array>
+</resources>
