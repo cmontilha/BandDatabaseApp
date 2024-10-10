@@ -19,7 +19,7 @@
 
 Here is a short GIF demonstrating how the app works:
 
-<img src="path_to_your_gif.gif" alt="App Demo" width="250"/>
+<img src="app.gif" alt="App Demo" width="250"/>
 
 ## Installation
 
